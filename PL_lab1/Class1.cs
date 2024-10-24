@@ -63,7 +63,6 @@ namespace PL_lab1
             }
             else 
             {
-                Console.WriteLine("Сумма ни одних из чисел не даёт третье");
                 return false;
             }
         }
