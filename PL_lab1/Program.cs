@@ -190,7 +190,7 @@ namespace PL_lab1
                             {
                                 Class1 summclass = new Class1(array);
 
-                                summclass.reverse(array);
+                                summclass.reverse(array, array.Length);
                             }
                             catch (Exception ex)
                             {

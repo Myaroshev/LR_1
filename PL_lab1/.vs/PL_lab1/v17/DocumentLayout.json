@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\addag\\source\\repos\\PL_lab1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9506D111-E4C5-4A93-B56B-637CD33777B8}|PL_lab1.csproj|c:\\users\\addag\\source\\repos\\pl_lab1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9506D111-E4C5-4A93-B56B-637CD33777B8}|PL_lab1.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9506D111-E4C5-4A93-B56B-637CD33777B8}|PL_lab1.csproj|C:\\Users\\addag\\source\\repos\\PL_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9506D111-E4C5-4A93-B56B-637CD33777B8}|PL_lab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9506D111-E4C5-4A93-B56B-637CD33777B8}|PL_lab1.csproj|c:\\users\\addag\\source\\repos\\pl_lab1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9506D111-E4C5-4A93-B56B-637CD33777B8}|PL_lab1.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\addag\\source\\repos\\PL_lab1\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
               "ToolTip": "C:\\Users\\addag\\source\\repos\\PL_lab1\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAuwEEAAAAdAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAYwF0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T06:19:50.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\addag\\source\\repos\\PL_lab1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\addag\\source\\repos\\PL_lab1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJQAAAAAAAAAAAAqwLgAAAAdAAAA",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAqwMAAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:17:22.541Z"
+              "WhenOpened": "2024-10-22T06:17:22.541Z",
+              "EditorCaption": ""
             }
           ]
         }

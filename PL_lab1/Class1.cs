@@ -90,11 +90,8 @@ namespace PL_lab1
 
 
         //1.4
-        public void reverse(int[] arr)
+        public void reverse(int[] arr, int n)
         {
-            int n = 5;
-
-            
             for (int i = 0; i < n / 2; i++)
             {
                 int temp = arr[i];
