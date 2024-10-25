@@ -1,0 +1,15 @@
+C:\Users\addag\source\repos\PL_lab1\bin\Debug\PL_lab1.exe.config
+C:\Users\addag\source\repos\PL_lab1\bin\Debug\PL_lab1.exe
+C:\Users\addag\source\repos\PL_lab1\bin\Debug\PL_lab1.pdb
+C:\Users\addag\source\repos\PL_lab1\obj\Debug\PL_lab1.csproj.AssemblyReference.cache
+C:\Users\addag\source\repos\PL_lab1\obj\Debug\PL_lab1.csproj.CoreCompileInputs.cache
+C:\Users\addag\source\repos\PL_lab1\obj\Debug\PL_lab1.exe
+C:\Users\addag\source\repos\PL_lab1\obj\Debug\PL_lab1.pdb
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№2\PL_lab1\bin\Debug\PL_lab1.exe.config
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№2\PL_lab1\bin\Debug\PL_lab1.exe
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№2\PL_lab1\bin\Debug\PL_lab1.pdb
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№2\PL_lab1\obj\Debug\PL_lab1.csproj.AssemblyReference.cache
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№2\PL_lab1\obj\Debug\PL_lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№2\PL_lab1\obj\Debug\PL_lab1.csproj.CoreCompileInputs.cache
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№2\PL_lab1\obj\Debug\PL_lab1.exe
+C:\Users\Mark\Desktop\ПГНИУ\ЯП_№2\PL_lab1\obj\Debug\PL_lab1.pdb
