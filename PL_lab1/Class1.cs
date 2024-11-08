@@ -268,8 +268,7 @@ namespace PL_lab1
 
                 if (guess == answer)
                 {
-                    Console.WriteLine("Вы угадали!");
-                    Console.WriteLine($"Вы отгадали число за {guess} попыток.");
+                    Console.WriteLine($"Вы отгадали число за {att} попыток");
                     break;
                 }
                 else
